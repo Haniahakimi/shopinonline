@@ -1,0 +1,306 @@
+#banner {
+height:110px;
+width: 100%;
+
+
+}
+#menu{
+	padding-top: 10px;
+
+	background-color: lightgreen;
+	height: 60px;
+}
+#menu li{
+list-style-type: none;
+display:inline;
+color:black;
+font-size: 25px;
+
+}
+#menu,a:link{
+color:black;
+text-decoration:none;
+text-shadow:2px 2px 4px  #f00;
+
+}
+#menu,a:hover{
+color:yellow;
+text-decoration:none;
+}
+span{
+	vertical-align: top;
+	padding-left: 400px;
+	font-size: 50px;
+	font-weight: bold;
+	font-family: Gabriola;
+	text-shadow: 2px 2px 5px #f00;
+}
+#content li{
+	list-style-type: none;
+    display:inline;
+    color:red;
+    font-size: 25px;
+
+}
+.h{
+	border-radius: 10px;
+	transition:all 1s;
+	box-shadow: 1px 1px 10px 1px gray;
+
+}
+.h:hover{
+	-webkit-transform:rotateX(90deg);
+	box-shadow: 2px 2px 30px 1px #f00;
+	transition:all 2s ;
+
+
+}
+.img{
+	border-radius: 100px;
+	box-shadow: 2px 2px 15px 1px #000;
+	margin: 5px;
+
+}
+.img:hover{
+	box-shadow: 2px 2px 25px 1px #f00;
+	-webkit-transition:all 2s;
+}
+.img_h:hover{
+
+	-webkit-transform:rotatex(360deg);
+	transition:all 2s ;
+}
+.img_h{
+	transition:all 2s ease-out 0s;
+	border-radius: 100px;
+
+}
+
+.fas{
+	padding-top: 50px;
+}
+.im{
+	margin-top: 10px;
+}
+.im:hover{
+	box-shadow: 2px 2px 25px 1px #f00;
+	-webkit-transform:translateY(-5px);
+	transition:all 1s ;
+}
+.ica:hover{
+	box-shadow: 2px 2px 25px 1px blue;
+	}
+/*.c{
+	padding-left: 500px;
+	margin-top: -140px;
+
+}
+.b{
+	margin-top: 60px;
+	margin-left: 50px;
+}*/
+.ica{
+		width: 20px;
+		height: 20px;
+		}
+
+/*shpoe.css*/
+.ifr{
+	margin-left: 230px;
+	padding-top: 100px;
+	font-weight: bold;
+}
+.fr{
+	padding-top: -150px;
+	margin-top: 50px;
+	margin-left: -6px;
+	margin-right: -6px;
+}
+.bg{
+
+	padding-bottom: 20px;
+}
+/*tshirt*/
+.tshir_imge{
+	border-radius: 100px;
+	box-shadow: 2px 2px 15px 1px #0f0;
+	margin: 5px;
+	transition:all 1s;
+
+}
+.tshir_imge:hover{
+	box-shadow: 2px 2px 25px 1px #f00;
+	-webkit-transform:translateY(-8px);
+	-webkit-transition:all 1s;
+}
+/*-------shoose*/
+.sh{
+	border-radius: 100px;
+	box-shadow: 3px 3px 20px 1px #ff0;
+	margin: 5px;
+	transition:all 1s;
+}
+.sh:hover{
+	box-shadow: 2px 2px 25px 1px #f00;
+	-webkit-transform:translateY(-8px);
+	-webkit-transition:all 1s;
+}
+/*----bag----*/
+.bag{
+	border-radius: 100px;
+	box-shadow: 3px 3px 20px 1px #0b0101;
+	margin: 5px;
+	transition:all 1s;
+}
+.bag:hover{
+	box-shadow: 2px 2px 25px 1px #f00;
+	-webkit-transform:scale(1.05);
+	-webkit-transition:all 1s;
+}
+/*---footer---*/
+.d_1{
+	padding-left: 100px;
+	padding-top: 100px;
+}
+#d_2{
+	padding-left: 310px;
+	width: 200px;
+	margin-top: -185px;
+}
+#d_3{
+	padding-left: 490px;
+	width: 300px;
+	margin-top: -185px;
+}
+#d_4{
+    padding-left: 800px;
+	width: 200px;
+	margin-top: -185px;
+}
+#d_5{
+    padding-left: 1024px;
+	width: 200px;
+	margin-top: -185px;
+}
+#foter{
+	background-color: black;
+	color: white;
+	height: 400px;
+	margin-top: 100px;
+
+}
+.b_c{
+color: blue;
+background-color:
+}
+
+#bl:hover{
+	background-color: lightblue;
+	color: black;
+	font-size: 20px;
+
+
+}
+
+#mar{
+	margin-top: 5px
+}
+
+/*---about*/
+#ab{
+	width: 600px;
+	height: 400px;
+	padding-top: 60px;
+	padding-left: 40px;
+
+}
+#abc{
+	width: 600px;
+	height: 400px;
+	float: right;
+	margin-top: -360px;
+	margin-right: 40px;
+}
+#pi{
+	float: right;
+	margin-top: -400px;
+	margin-right: 40px;
+
+}
+#pi:hover{
+	box-shadow: 2px 2px 25px 1px #f00;
+	-webkit-transform:translateY(-10px);
+	transition:all 1s ;
+}
+
+#pp{
+	margin-top: 40px;
+	margin-left: 20px;
+	margin-top: 30px;
+
+}
+#pp:hover{
+	box-shadow: 2px 2px 25px 1px #f00;
+	-webkit-transform:translateY(-10px);
+	transition:all 1s ;
+}
+strong{
+	font-size: 50px;
+	color: blue;
+}
+/*----content-----*/
+#A{
+	width: 600px;
+	height: 500px;
+	border-radius: 10px;
+	border: solid 1px;
+	margin-top: 100px;
+	margin-left: 40px;
+}
+
+#TT {
+
+	margin-left: 60px;
+	color: white;
+	font-size: 20px;
+	background-color: black;
+	width: 400px;
+	height: 50px;
+}
+
+
+#TT:hover {
+	background-color: lightblue;
+	color: black;
+	font-size: 25px;
+}
+
+#B{
+	width: 600px;
+	height: 500px;
+	border-radius: 10px;
+	border: solid 1px;
+	float: right;
+	margin-top: -500PX;
+	margin-right: 40PX;
+}
+.inp{
+    margin-left: 60px;
+	margin-top: 100px;
+	width: 400px;
+	height: 50px;
+}
+#tt:hover{
+	background-color: blue;
+}
+.O{
+	 margin-left: 60px;
+}
+/*#content{
+
+}
+
+#bn{
+
+
+}*/
